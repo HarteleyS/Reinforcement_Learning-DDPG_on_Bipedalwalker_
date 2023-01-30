@@ -1,4 +1,4 @@
-# Reinforcement_Learning-DDPG_on_Bipedalwalker_
+# Reinforcement_Learning-DDPG_on_Bipedalwalker_V3
 
 **Project title**: Bipedal Walk V3 with DDPG
 
